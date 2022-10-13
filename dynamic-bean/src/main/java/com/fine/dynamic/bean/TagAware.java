@@ -1,7 +1,7 @@
 package com.fine.dynamic.bean;
 
 /**
- * @Author: FanBo
+ * @Author: javafine
  * @Description:
  * @Date: Created in 20:23 2022/2/21
  */

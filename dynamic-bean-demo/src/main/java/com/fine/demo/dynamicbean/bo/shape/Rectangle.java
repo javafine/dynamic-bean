@@ -4,7 +4,7 @@ import com.fine.demo.dynamicbean.bo.color.Color;
 import com.fine.dynamic.bean.Tag;
 
 /**
- * @Author: FanBo
+ * @Author: javafine
  * @Description:
  * @Date: Created in 10:58 2022/10/10
  */

@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Primary;
 
 /**
- * @Author: FanBo
+ * @Author: javafine
  * @Description:
  * @Date: Created in 11:13 2022/10/10
  */
