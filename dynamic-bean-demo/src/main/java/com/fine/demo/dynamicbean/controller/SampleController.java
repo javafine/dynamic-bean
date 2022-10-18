@@ -17,11 +17,6 @@ public class SampleController {
     private Color color;
     @Autowired
     private Shape shape;
-    @RequestMapping("/hello")
-    public @ResponseBody
-    String hello(String name) {
-        return String.format("Hello %s!", name);
-    }
 
     @RequestMapping("/color/{c}")
     public @ResponseBody String color(@PathVariable("c") String c) {
